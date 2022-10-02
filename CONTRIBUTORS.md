@@ -11,7 +11,6 @@ Enter your Name & Github Link in the given format. Don't try to change anything 
 <br>
   
 | Name | Github Link |
-| ------|----------|---------- |
 | Elton | <a href="https://github.com/eltonpinto156/">El</a> |
 
 
