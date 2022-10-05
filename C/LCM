@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    int a, b;
+    scanf("%d %d",&a,&b);
+    int ans = lcm(a, b);
+    printf("LCM of a and b : %d",ans);
+}
+
+int lcm(int a, int b){
+    int res = gcd(a, b);
+    return a * b / res;
+}
+
+int gcd(int a, int b){
+    if(a == 0){
+        return b;
+    }
+    return gcd(b % a, a);
+}
