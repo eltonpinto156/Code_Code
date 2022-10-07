@@ -1,24 +1,35 @@
-// 14) Program to check whether number is prime or not
-#include<bits/stdc++.h>
+//Hacktoberfest 2022
+/* 
+Time complexity -> O(n)
+Space complexity -> O(1)
+*/
+
+#include <iostream>
 using namespace std;
-
-int main(){
-    int num;
-    cin>>num;
-
-    int flag = 1;
-    for(int i = 2; i <= num/2; i++){
-        if(num % i == 0){
-            flag = 0;
-            break;
+bool isPrime(int n){
+    if(n==0 || n==1){
+        return false;
+    }
+    for(int i=2; i < n; i++){
+        if(n % i == 0){
+            return false;
         }
     }
-
-    if(flag == 1){
-        cout<<num<<" is Prime."<<endl;
+    return true;
+}
+int main()
+{
+    int n;
+    cout << "Enter a Number -> ";
+    cin >> n;
+    if(isPrime(n)){
+        cout << "It is Prime Number...." << endl;
     }
     else{
-        cout<<num<<" is not Prime."<<endl;
+        cout << "It is not Prime Number...." << endl;
     }
     return 0;
 }
+
+#include
+//Contributed by Ujjwal Gulhane.
