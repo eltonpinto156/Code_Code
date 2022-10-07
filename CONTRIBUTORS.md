@@ -16,7 +16,7 @@ Enter your Name & Github Link in the given format. Don't try to change anything 
 | Om    | <a href="https://github.com/omnalamwar/">https://github.com/omnalamwar/</a> |
 | Ujjwal    | <a href="https://github.com/Ujwalgulhane/">https://github.com/Ujwalgulhane/</a> |
 | Gretta | <a href="https://github.com/GrettaPinto/">https://github.com/GrettaPinto/</a>|
- 
+| Vedant | <a href="https://github.com/VedantTarale">https://github.com/VedantTarale </a> | 
 
 
 Thanks to everyone who helped in building this Repository :)
