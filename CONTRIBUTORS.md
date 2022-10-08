@@ -18,6 +18,8 @@ Enter your Name & Github Link in the given format. Don't try to change anything 
 | Gretta | <a href="https://github.com/GrettaPinto/">https://github.com/GrettaPinto/</a>|
 | Vedant | <a href="https://github.com/VedantTarale/">https://github.com/VedantTarale/ </a> | 
 | Amogh | <a href="https://github.com/Amoghpka/">https://github.com/Amoghpka/ </a> | 
+| Vinuta | <a href="https://github.com/Vinutasb/">https://github.com/Vinutasb/ </a> | 
+
 
 
 Thanks to everyone who helped in building this Repository :)
